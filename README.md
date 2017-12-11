@@ -28,13 +28,12 @@ To keep things neat and clean, make sure all of these are in the same folder.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-Download Python V2.x and install. Open your local command prompt. 
+Download Python V2.x and install. Make sure the files are downloaded as mentioned in the prerequisites. Open your local command prompt. 
 
-run the following file in your command prompt.
+run the following command in your command prompt.
 
 ```
-entertainment_python.py
+python entertainment_python.py
 ```
 
 This should open the web browser with the movie trailer website.
